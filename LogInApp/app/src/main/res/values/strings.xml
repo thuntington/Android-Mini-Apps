@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Log In App</string>
+    <string name="enter_your_login_details_below">Enter your login details below:</string>
+    <string name="enter_your_username">Username</string>
+    <string name="enter_your_password">Password</string>
+    <string name="user">USER</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+</resources>
